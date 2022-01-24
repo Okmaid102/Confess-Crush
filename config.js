@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "🥰🥰🥰",
-    introTitle: 'chơi xíu nha T.Linh',
+    introTitle: 'chơi xíu nha, Ngọcc Ánhh',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
